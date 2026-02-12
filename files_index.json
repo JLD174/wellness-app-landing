@@ -1,0 +1,28 @@
+{
+  "documents": [],
+  "tables_parsed": [],
+  "tables_source_info": [],
+  "images": [],
+  "summary": {
+    "total_files": 1,
+    "by_category": {
+      "documents": 0,
+      "tables_parsed": 0,
+      "tables_source_info": 0,
+      "images": 0,
+      "document": 1
+    },
+    "processing_time": null
+  },
+  "document": [
+    {
+      "original_name": "PHP Wellness OS FAQ's",
+      "file_name": "PHP Wellness OS FAQ's.md",
+      "file_path": "/workspace/wellness_app_landing/uploaded_files/documents/PHP Wellness OS FAQ's.md",
+      "file_type": "docx",
+      "category": "document",
+      "summary": "Processed PHP Wellness OS FAQ's for coding",
+      "source_id": "2021289341737357312"
+    }
+  ]
+}
